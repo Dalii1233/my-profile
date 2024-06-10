@@ -1,0 +1,15 @@
+body {
+  color: rgb(30, 30, 30);
+	text-align: justify;
+	text-decoration: none;
+}
+h1 {
+  color: red;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+legend {
+  color: blue;
+	font-size: 20px;
+	font-family: Helvetica;
+}
